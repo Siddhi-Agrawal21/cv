@@ -1,0 +1,90 @@
+body{
+margin: 0;
+margin-bottom: 0;
+
+text-align: center;
+}
+
+.top-color{
+  height: 50px;
+  background-color:#007580;
+  margin: 0;
+}
+.first-color{
+  margin: 0;
+  background-color: #98ddca;
+
+}
+.hello-visitors{
+  font-family: 'Lobster', cursive;
+
+  }
+
+  img {
+  border-radius: 70%;
+  background-color: white;
+
+ }
+
+.img-siddhi{
+  margin-left: auto;
+}
+ .text1{
+   font-family: 'Amatic SC', cursive;
+   font-size: 30px;
+}
+
+.text2{
+  font-family: 'Amatic SC', cursive;
+font-size: 30px;
+}
+
+.border1{
+  height: 50px;
+  background-color:#e2bcb7;
+  margin-top: 0;
+}
+
+.my-hobbies{
+  font-size: 50px;
+}
+
+table, td {
+  padding: 15px;
+}
+
+.links{
+  background-color:#798777;
+    height: 70px;
+
+}
+.para2{
+  background-color: #ff8882;
+  margin-top: 0;
+}
+
+a:link {
+  color: red;
+}
+
+.font{
+  font-family: 'Noto Serif', serif;
+}
+
+.font-size1{
+  font-size: 30px;
+}
+.font-size2{
+  font-size: 30px;
+}
+.font-size3{
+  font-size: 30px;
+}
+
+.my-academics{
+background-color:#91c788;
+margin-top: 0;
+}
+.my-academics2{
+  font-size: 50px;
+}
